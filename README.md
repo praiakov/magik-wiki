@@ -14,4 +14,4 @@ Magik Wiki
 
 ## Development enviroment setup
 
-["The answer is out there, Neo, and it's looking for you, and it will find you if you want it to."](setup.md)
+["The answer is out there, Neo, and it's looking for you, and it will find you if you want it to."](enviroment/setup.md)

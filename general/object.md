@@ -1,4 +1,4 @@
-Em Magik tudo é objeto, por exemplo o número 6 é um objeto inteiro e pode invocar mensagens ([método](general/method_procedure.md)), por exemplo:
+Em Magik tudo é objeto, por exemplo o número 6 é um objeto inteiro e pode invocar mensagens ([método](method_procedure.md)), por exemplo:
 
 > 6.cubed
 >>$
@@ -27,4 +27,4 @@ As classes de objetos se dividem em três categorias:
 > Um simples vetor é uma instância de uma classe indexed.
 
 - slotted
-> Similar ao class no C#, uma abstração que compartilham caracteristicas, em magik se chama [slotted exemplar](general/slotted.md).
+> Similar ao class no C#, uma abstração que compartilham caracteristicas, em magik se chama [slotted exemplar](slotted.md).
