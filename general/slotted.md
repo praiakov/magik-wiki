@@ -1,5 +1,6 @@
 Slotted são declaradas usando a procedure def_slotted_exemplar(:nome, propriedades, _opcional :classe_pai), conforme mostrado no exemplo a seguir:
 
+```
 def_slotted_exemplar( 
     :nome_classe, 
     {
@@ -27,5 +28,5 @@ def_slotted_exemplar(
     },
     : pessoa
 )
-
+```
 
