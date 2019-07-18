@@ -11,3 +11,7 @@ Além disso, o Smallworld Core estes arquivos:
 - swaf.msf para iniciar um único modo interativo;
 - appserver.msf fornece uma sessão do servidor de aplicaçãoes.
 
+Para iniciar uma sessão via prompt de comando:
+
+/../bin/x86/gis.exe -a "/../config/gis_aliases" 
+	-e "/../config/environment.bat" cambridge_db_open
