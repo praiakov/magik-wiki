@@ -27,4 +27,4 @@ As classes de objetos se dividem em três categorias:
 > Um simples vetor é uma instância de uma classe indexed.
 
 - slotted
-> Similar ao class no C#, uma abstração que compartilham caracteristicas, em magik se chama [slotted exemplar](slotted.md).
+> Similar ao class no C#, uma abstração do mundo real ou não que possuem características em comun e comportamentos, em magik é definido como slotted [slotted exemplar](slotted.md).
