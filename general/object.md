@@ -2,9 +2,10 @@
 
 Em Magik tudo é objeto, por exemplo o número 6 é um objeto inteiro e pode invocar mensagens ([método](method_procedure.md)), por exemplo:
 
-> 6.cubed
->>$
->>>36
+```
+Magik> 6.cubed
+Magik> 36
+```
 
 Retorna o cubo de 6, que é 36.
 

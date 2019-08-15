@@ -1,12 +1,13 @@
 # MagikWiki
-Magik Wiki
+Smallworld Magik Wiki
 
 ## We are using the baby steps strategy.
 
 - [The Smallworld Magik Language](general/magik.md)
 - [Assignment](general/assignment.md)
-- [SW Magik Programming/Interactive mode](general/idle.md)
 - [Programming Oriented Object](general/object.md)
+- [Conditionals][general/conditionals.md]
+- [Loops][general/loops.md]
 - [Method & Procedure](general/method_procedure.md)
 - [Polymorphism](general/polymorphism.md)
 - [Inheritance](general/inheritance.md)
