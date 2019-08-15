@@ -9,8 +9,8 @@ Magik Wiki
 - [Programming Oriented Object](general/object.md)
 - [Method & Procedure](general/method_procedure.md)
 - [Polymorphism](general/polymorphism.md)
-- [Slotted](general/slotted.md)
 - [Inheritance](general/inheritance.md)
+- [Slotted](general/slotted.md)
 
 ## Development enviroment setup
 

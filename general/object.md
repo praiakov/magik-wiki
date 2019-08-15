@@ -1,3 +1,5 @@
+### Objeto
+
 Em Magik tudo é objeto, por exemplo o número 6 é um objeto inteiro e pode invocar mensagens ([método](method_procedure.md)), por exemplo:
 
 > 6.cubed
