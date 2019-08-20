@@ -23,11 +23,11 @@ _true, _false | true and false
 “To be or not to be” | char16_vector
 
 As classes de objetos se dividem em três categorias:
-- enumerated
-> Um inteiro é um exemplo de classe enumerated.
+### enumerated
+Um inteiro é um exemplo de classe enumerated.
 
-- indexed
-> Um simples vetor é uma instância de uma classe indexed.
+### indexed
+Um simples vetor é uma instância de uma classe indexed.
 
-- slotted
-> Similar ao class no C#, uma abstração do mundo real ou não que possuem características em comun e comportamentos, em magik é definido como slotted [slotted exemplar](slotted.md).
+### slotted
+Similar ao class no C#, uma abstração do mundo real ou não que possuem características em comun e comportamentos, em magik é definido como slotted [slotted exemplar](slotted.md).

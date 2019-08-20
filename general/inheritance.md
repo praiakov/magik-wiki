@@ -32,7 +32,9 @@ def_slotted_exemplar(:funcionario
 
 Assim como podemos acessar o método __andar__ definido na superclasse __pessoa__, também temos acesso na subclasse __funcionario__.
 
->Magik > funcionario.andar()
+```
+MagikSF > funcionario.andar()
+```
 
 _Obs:Para sobrescever o método na subclasse basta definir subclasse.metodo(), a sobrescrita é implicita._
 
