@@ -12,6 +12,7 @@ Smallworld Magik Wiki
 - [Polymorphism](general/polymorphism.md)
 - [Inheritance](general/inheritance.md)
 - [Slotted](general/slotted.md)
+- [Collections](general/collection.md)
 
 ## Development enviroment setup
 
