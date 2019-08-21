@@ -15,5 +15,5 @@ Sintaxe para criação de uma procedure
 ```
 _proc(_opcional)
 
->_endproc
+_endproc
 ```

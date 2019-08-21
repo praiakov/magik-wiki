@@ -1,6 +1,6 @@
 # Coleções
 
-As coleções são estruturas de dados enumeráveis que podem ser acessadas usando índices e chaves. Portanto as coleções tem capacidade de colecionar objetos.
+As coleções são estruturas de dados indexadas que podem ser acessadas usando índices e chaves. Portanto as coleções tem capacidade de colecionar objetos.
 
 ### simple vector
 
