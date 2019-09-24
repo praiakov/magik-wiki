@@ -13,6 +13,7 @@ Smallworld Magik Wiki
 - [Inheritance](general/inheritance.md)
 - [Slotted](general/slotted.md)
 - [Collections](general/collection.md)
+- [Input/output](general/io.md)
 
 ## Development enviroment setup
 
